@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <shapeType>Factory.ConcreteFactory.SolidFactory</shapeType>
+    <RectangleData>300</RectangleData>
+    <RectangleData>100</RectangleData>
+    <RectangleData>200</RectangleData>
+    <RectangleData>200</RectangleData>
+    <RoundData>50</RoundData>
+    <RoundData>100</RoundData>
+    <RoundData>200</RoundData>
+    <TriangleData>100</TriangleData>
+    <TriangleData>400</TriangleData>
+    <TriangleData>500</TriangleData>
+    <TriangleData>400</TriangleData>
+    <TriangleData>350</TriangleData>
+    <TriangleData>350</TriangleData>
+</config>
