@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <shapeType>Factory.ConcreteFactory.DotFactory</shapeType>
+    <shapeData>100</shapeData>
+    <shapeData>100</shapeData>
+</config>
